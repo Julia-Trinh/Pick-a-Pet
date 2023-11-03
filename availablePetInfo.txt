@@ -1,0 +1,4 @@
+1:cat:Other:From 1 to 3 years old:male:none:Is very playful but shy:Julia Trinh:juliatrinh2002@gmail.com
+2:dog:Australian Shepherd:From 3 to 6 years old:female:otherDogs:Likes to go outside:Haichuan Li:fakeemail@gmail.com
+3:dog:Pomeranian:From 1 to 3 years old:female:otherDogs,children:Very playful:Soria Phlek:fakeemail2@gmail.com
+4:cat:Cornish Rex:From 3 to 6 years old:female:children:Very curious:Eleonore Crepin:fakeemail3@gmail.com
